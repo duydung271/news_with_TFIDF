@@ -3,15 +3,15 @@
 To crawl news in vnexperess: 
 
 
-    **python Crawler/run.py**
+    python Crawler/run.py
 
 
 To create vectorizer:
 
-    **python Classifier/encoder.py**
+    python Classifier/encoder.py
 
 
 To find related news:
 
 
-    **python Classifier/encoder.**
+    python Classifier/encoder.py
